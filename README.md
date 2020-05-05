@@ -13,9 +13,9 @@ VMware PowerCLI モジュールのアンインストールコマンドを自動�
 <img src="https://github.com/unnowataru/Create-Uninstall-Command-for-PowerCLI/blob/master/002.PNG" width=800>
 
 ## どう使うんだ - How to use this
-このスクリプトを.ps1ファイルとして実行してください。
+このスクリプトを .ps1 ファイルとして実行してください。
 
-C:\temp にアンインストールするためのコマンドが自動生成されます。
+「C:\temp」にアンインストールするためのコマンドが自動生成されます。
 
 ## なんでこれがいるんだ - Why this powershell needs
 https://twitter.com/UnnoWataru/status/1257502059055595520
