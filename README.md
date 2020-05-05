@@ -1,10 +1,10 @@
 # Create-Uninstall-Command-for-PowerCLI
-PowerCLIのモジュールのアンインストール自動化くん
+VMware PowerCLI のモジュールのアンインストール自動化くん
 
 ## なんだこれ - What's this?
-このPowerShellを実行すると、そのコンピューターに含まれる
+この PowerShell を実行すると、そのコンピューターに含まれる
 
-PowerCLIモジュールのアンインストールコマンドを自動生成してくれます
+VMware PowerCLI モジュールのアンインストールコマンドを自動生成してくれます
 
 ## 使用例 - Generated Uninstall Commands Sample
 
