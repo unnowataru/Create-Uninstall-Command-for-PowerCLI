@@ -8,9 +8,9 @@ VMware PowerCLI モジュールのアンインストールコマンドを自動�
 
 ## 使用例 - Generated Uninstall Commands Sample
 
-<img src="https://github.com/unnowataru/Create-Uninstall-Command-for-PowerCLI/blob/master/001.PNG" width=640>
+<img src="https://github.com/unnowataru/Create-Uninstall-Command-for-PowerCLI/blob/master/001.PNG" width=480>
 
-<img src="https://github.com/unnowataru/Create-Uninstall-Command-for-PowerCLI/blob/master/002.PNG" width=640>
+<img src="https://github.com/unnowataru/Create-Uninstall-Command-for-PowerCLI/blob/master/002.PNG" width=800>
 
 ## どう使うんだ - How to use this
 このスクリプトを.ps1ファイルとして実行してください。
