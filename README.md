@@ -8,9 +8,9 @@ PowerCLIモジュールのアンインストールコマンドを自動生成し
 
 ## 使用例 - Generated Uninstall Commands Sample
 
-<img src=https://github.com/unnowataru/Create-Uninstall-Command-for-PowerCLI/blob/master/001.png width=640>
+<img src="https://github.com/unnowataru/Create-Uninstall-Command-for-PowerCLI/blob/master/001.PNG" width=640>
 
-<img src=https://github.com/unnowataru/Create-Uninstall-Command-for-PowerCLI/blob/master/002.png width=640>
+<img src="https://github.com/unnowataru/Create-Uninstall-Command-for-PowerCLI/blob/master/002.png" width=640>
 
 ## どう使うんだ - How to use this
 このスクリプトを.ps1ファイルとして実行してください。
