@@ -6,6 +6,12 @@ VMware PowerCLI のモジュールのアンインストール自動化くん
 
 VMware PowerCLI モジュールのアンインストールコマンドを自動生成してくれます。
 
+If you need newer version of VMware PowerCLI, you must uninstall existing PowerCLI modules.
+
+Base on that, this PoSH command creates the Uninstall Commands for installed modules currently.
+
+This PoSH requires "C:\temp" Directory existing.
+
 ## なんでこれがいるんだ - Why this powershell needs
 https://twitter.com/UnnoWataru/status/1257502059055595520
 
